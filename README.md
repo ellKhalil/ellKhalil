@@ -5,7 +5,7 @@ I'm a full-stack web-developer from Abuja, Nigeria. I graduated from Yusuf Maita
 
 
 [![Instagram Badge](https://instagram.com/khalil_muhtar?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/khalil_muhtar?igshid=OGQ5ZDc2ODk2ZA==)
-[![Linkedin Badge](https://www.linkedin.com/in/khalil-ibrahim-738689268)](https://www.linkedin.com/in/khalil-ibrahim-738689268)
+[![Linkedin Badge](https://img.shields.io/badge/-Prajwalrai-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/khalil-ibrahim-738689268)](https://www.linkedin.com/in/khalil-ibrahim-738689268)
 
 
 Like My Work?
