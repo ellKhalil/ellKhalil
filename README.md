@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://github.com/inspirasiprogrammer/inspirasiprogrammer/blob/main/wave.gif" width="30px">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" style="max-width: 100%;">
 <h4> Fullstack web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h4>
-I'm a full stack web-developer from Abuja, Nigeria. I studied BSc, Computer Science at Yusuf Maitama Sule University Kano, Nigeria. I like building new stuff and working on blockchain technology, learning new stuffs like solidity, smart contracts in hope of becoming full stack web3 developer.
+I'm a full stack web-developer from Abuja, Nigeria. I studied BSc, Computer Science at Yusuf Maitama Sule University Kano, Nigeria. I'm currently working on blockchain technology, learning new stuffs like solidity, smart contracts in hope of becoming full stack web3 developer.
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@khalilmuhtar_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/khalil_muhtar?igshid=OGQ5ZDc2ODk2ZA==)](https://instagram.com/khalil_muhtar?igshid=OGQ5ZDc2ODk2ZA==)
