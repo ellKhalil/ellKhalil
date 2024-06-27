@@ -19,11 +19,10 @@ Like My Work?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with PHP, Laravel, JavaScript & Html.
-- 🌱 I’m currently learning Web3, Smart contracts, Phython & React.
+- 🌱 I’m currently learning Solidity, Web3, Smart contracts, Phython & React.
 - 👯 I’m looking to collaborate on blockchain technology/Decentralized organizations.
 - 🤔 I’m looking for help with Decentralized finance.
-- 💬 Ask me about ...
-- 📫 How to reach me: Email: khalilnaseer03@gmail.com
+- 📫 How to reach me: Email: khalilnaseer03@gmail.com - (my social media accounts are above!)
 - ⚡ Fun fact: Over 90% of the world's currency is digital: This includes money held in bank accounts and traded electronically, meaning physical money only accounts for a small fraction of the total currency.
 
 ## ⚡ Technologies
