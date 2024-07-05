@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on blockchain technology/Decentralized organizations.
 - 🤔 I’m looking for help with Decentralized finance.
 - 📫 How to reach me: Email: khalilnaseer03@gmail.com - (my social media accounts are above!)
-- ⚡ Fun fact: Over 90% of the world's currency is digital: This includes money held in bank accounts and traded electronically, meaning physical money only accounts for a small fraction of the total currency.
+- ⚡ Fun fact: Over 90% of the world's currency is digital: This includes money held in bank accounts and traded electronically, meaning physical money only accounts for a small fraction of the total currency!
 
 ## ⚡ Technologies
 
