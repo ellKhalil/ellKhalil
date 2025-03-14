@@ -50,7 +50,6 @@ Here are some ideas to get you started:
 <img align="left" src="https://simpleicons.org/icons/flutter.svg" alt="Flutter" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/html5.svg" alt="HTML5" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/css3.svg" alt="CSS3" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <br />
 
