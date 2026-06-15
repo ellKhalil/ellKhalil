@@ -98,7 +98,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 If you find my work interesting, feel free to explore my repositories and connect with me.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ellKhalil&style=for-the-badge" />
 
 ### Let's build the future, one line of code at a time.
 
