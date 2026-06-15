@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:06b6d4&text=Ibrahim%20Nasir%20Muhtar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%7C%20Cross-Platform%20Developer&descAlignY=58" />
 
-# 👋 Hello, I'm Ibrahim Nasir Muhtar
+# 👋 Hello, I'm Khalil Muhtar
 
 ### Building digital experiences that solve real-world problems.
 
@@ -32,8 +32,6 @@ Mission: Building technology that creates real impact.
 
 I enjoy transforming ideas into practical products that improve the way people work, learn, and interact with technology.
 
----
-
 <p align="center">
 
 <a href="https://www.linkedin.com/in/khalil-ibrahim-738689268">
@@ -59,8 +57,6 @@ I enjoy transforming ideas into practical products that improve the way people w
 <img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,vite,html,css,bootstrap,tailwind,flutter" />
 
 </p>
-
----
 
 ## 🗄️ Databases & Infrastructure
 
