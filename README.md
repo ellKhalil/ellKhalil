@@ -58,7 +58,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 </p>
 
-## 🗄️ Databases & Infrastructure
+### 🗄️ Databases & Infrastructure
 
 <p>
 
