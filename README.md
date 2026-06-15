@@ -115,64 +115,6 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 ---
 
-# 🏗️ Featured Projects
-
-### 🏥 Electronic Medical Records (EMR) System
-
-A healthcare solution designed to streamline patient information management and improve accessibility.
-
----
-
-### 💊 Medicine Prescription Platform
-
-A prescription management system connecting doctors, pharmacists, and patients.
-
----
-
-### 🧹 Maid Verification Platform
-
-A digital verification and recruitment platform designed to simplify domestic workforce management.
-
----
-
-### 🏫 University Management Solutions
-
-Development of educational portals and enterprise systems for academic institutions.
-
----
-
-### 🛒 Inventory & POS System
-
-Business software for inventory control, sales processing, and reporting.
-
----
-
-### ⛓️ Blockchain Projects
-
-Exploring smart contracts and decentralized application development.
-
----
-
-# 🎯 Current Focus
-
-```text
-→ Building scalable web applications
-→ Developing cross-platform experiences
-→ Advancing in Blockchain & Web3
-→ Exploring decentralized finance solutions
-→ Contributing to impactful technology projects
-```
-
----
-
-# 💡 Philosophy
-
-> "Technology is most powerful when it solves real problems for real people."
-
-I strive to build software that is practical, maintainable, and capable of making a meaningful difference.
-
----
-
 <div align="center">
 
 ## ⭐ Thanks for Visiting!
@@ -184,9 +126,3 @@ If you find my work interesting, feel free to explore my repositories and connec
 ### Let's build the future, one line of code at a time.
 
 </div>
-
-<!-- ===================================================== -->
-
-<!--                END OF README                         -->
-
-<!-- ===================================================== -->
