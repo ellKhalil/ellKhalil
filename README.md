@@ -19,8 +19,6 @@ I specialize in developing modern web applications and cross-platform solutions 
 ## 🚀 About Me
 
 ```yaml
-Name: Ibrahim Nasir Muhtar
-Location: Nigeria
 Role: Full-Stack Web & Cross-Platform Developer
 Experience: System Analysis & Software Development
 Education: B.Sc. Computer Science
@@ -35,8 +33,6 @@ Mission: Building technology that creates real impact.
 I enjoy transforming ideas into practical products that improve the way people work, learn, and interact with technology.
 
 ---
-
-## 🌐 Connect With Me
 
 <p align="center">
 
@@ -58,21 +54,9 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 # ⚡ Tech Arsenal
 
-## 🌐 Web Development
-
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,vite,html,css,bootstrap,tailwind" />
-
-</p>
-
----
-
-## 📱 Cross-Platform Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flutter" />
+<img src="https://skillicons.dev/icons?i=php,laravel,javascript,react,vite,html,css,bootstrap,tailwind,flutter" />
 
 </p>
 
@@ -96,8 +80,6 @@ I enjoy transforming ideas into practical products that improve the way people w
 * Requirements Analysis
 
 ---
-
-# 📊 GitHub Analytics
 
 <div align="center">
 
