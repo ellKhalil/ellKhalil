@@ -109,8 +109,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=github.com/ellKhalil&theme=transparent&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=ellKhalil&theme=transparent&hide_border=true" />
 </div>
 
 ---
