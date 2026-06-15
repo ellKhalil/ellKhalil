@@ -50,7 +50,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 ---
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 
 <p>
 
@@ -58,7 +58,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 </p>
 
-### 🗄️ Databases & Infrastructure
+#### 🗄️ Databases & Infrastructure
 
 <p>
 
@@ -66,7 +66,7 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 </p>
 
-### Additional Experience
+#### Additional Experience
 
 * REST APIs
 * cPanel Deployment
