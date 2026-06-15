@@ -1,9 +1,3 @@
-<!-- ===================================================== -->
-
-<!--      ULTRA-PREMIUM FUTURISTIC GITHUB PROFILE         -->
-
-<!-- ===================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:06b6d4&text=Ibrahim%20Nasir%20Muhtar&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20%7C%20Cross-Platform%20Developer&descAlignY=58" />
@@ -84,21 +78,6 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 ---
 
-## ⛓️ Blockchain & Web3
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=solidity" />
-
-</p>
-
-* Solidity
-* Smart Contracts
-* Decentralized Applications (DApps)
-* Web3 Ecosystem
-
----
-
 ## 🗄️ Databases & Infrastructure
 
 <p>
@@ -122,15 +101,15 @@ I enjoy transforming ideas into practical products that improve the way people w
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ellKhalil&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellKhalil&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=ellKhalil&theme=transparent&hide_border=true" />
 
 </div>
 
